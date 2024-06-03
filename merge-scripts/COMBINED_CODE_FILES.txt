@@ -1,0 +1,21 @@
+-- Begin: sample1.txt
+
+This is sample1.txt
+
+-- End: sample1.txt
+
+-- Begin: sample2.txt
+
+This is sample2.txt
+This is sample2.txt
+
+-- End: sample2.txt
+
+-- Begin: sample3.txt
+
+This is sample3.txt
+This is sample3.txt
+This is sample3.txt
+
+-- End: sample3.txt
+

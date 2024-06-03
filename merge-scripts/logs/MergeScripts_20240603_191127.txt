@@ -1,0 +1,10 @@
+2024-06-03 19:11:27,382 - MergeScripts.py - merge_files - INFO - 37 - Selected Control File: controlFile.txt
+2024-06-03 19:11:27,382 - MergeScripts.py - merge_files - INFO - 45 - Found Files Folder: code_files
+2024-06-03 19:11:27,383 - MergeScripts.py - merge_files - INFO - 53 - Found Existing COMBINED_CODE_FILES.txt File. Deleting that.
+2024-06-03 19:11:27,384 - MergeScripts.py - merge_files - INFO - 56 - Creating File: COMBINED_CODE_FILES.txt
+2024-06-03 19:11:27,413 - MergeScripts.py - merge_files - INFO - 63 - Total File Names Found: 3
+2024-06-03 19:11:27,413 - MergeScripts.py - merge_files - INFO - 65 - Starting the Combining Process
+2024-06-03 19:11:27,415 - MergeScripts.py - merge_files - INFO - 70 - Selected Script File: sample1.txt
+2024-06-03 19:11:27,450 - MergeScripts.py - merge_files - INFO - 70 - Selected Script File: sample2.txt
+2024-06-03 19:11:27,482 - MergeScripts.py - merge_files - INFO - 70 - Selected Script File: sample3.txt
+2024-06-03 19:11:27,530 - MergeScripts.py - merge_files - INFO - 82 - Process Completed
