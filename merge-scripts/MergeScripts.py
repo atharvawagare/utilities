@@ -4,10 +4,9 @@ Created with The Purpose to Reduce My Manual Efforts of Combining the Code Files
 
 Author: Atharva Wagare
 Date Created: 29 May 2024
-Date Modified: 03 June 2024
+Date Modified: 28 June 2024
 
 Connect with Me: https://linkedin.com/in/atharvawagare
-
 """
 
 # Necessary Imports
@@ -72,7 +71,10 @@ class MergeScripts:
             for line in file.readlines():
                 filenames.extend([name.strip() for name in line.strip().split(",")])
         
+        filenames=list(filter(lambda x: len(x)!=0, filenames))
+
         self.logger.info(msg="Total File Names Found: {}".format(len(filenames)))
+        self.logger.info(msg="Filenames are: {}".format(filenames))
 
         self.logger.info(msg="Starting the Combining Process")
         with open(self.output_file, "a") as combined_file:
