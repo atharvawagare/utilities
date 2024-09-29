@@ -1,0 +1,3 @@
+CONTROL_FILE=./controlFile.txt
+SQL_FILES_FOLDER=./code_files
+OUTPUT_FILE_PATH=./Combined_Code_Files.txt
